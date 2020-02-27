@@ -1,0 +1,72 @@
+.leftHeader span{
+float: left;
+}
+.leftHeader{
+    display: inline-block;
+    margin-left: 235px;
+    margin-top: 25px;
+}
+
+ul li{
+    text-decoration: none;
+    display: inline-block;
+    margin-right: -2px;
+}
+.rightHeader{
+    float:right;
+    margin-right: 235px; 
+    margin-top: 25px;
+}
+#del{
+    font-family: 'Yellowtail';
+    margin-left: 48px;
+    margin-top: -3px;
+    font-size: 30px;
+}
+.ph{
+    font-family:'Oswald';
+    position: relative;
+    height:16px;
+    font-size: 11px;
+    margin-left: 54px;
+    margin-top: -34px;
+}
+
+#bor{
+    background-image:url('images/bar.jpg');
+    background-repeat: no-repeat;
+    margin-left: 229px;
+    margin-top: 22px;
+}
+#left{
+    margin-left: 235px;
+}
+#right{
+    margin-top: -25px;
+    margin-right: 232px;
+    float: right;
+}
+#right span{
+    float: left;
+
+}
+ .ph1{
+    color: gray;
+    padding-left: 15px;
+    font-size: 12px;
+    margin-top: 3px;
+}
+#hed{
+    font-family:'Oswald';  
+}
+#choclate{
+    font-family: 'Oswald';
+    margin-top: -22px;
+    color: gray;
+}
+#mainpic img{
+    margin-left: 229px;
+}
+#ph3{
+    font-family: 'Merriweather';
+}
