@@ -67,6 +67,54 @@ ul li{
 #mainpic img{
     margin-left: 229px;
 }
-#ph3{
+
+li.space{
     font-family: 'Merriweather';
+   
+    
 }
+.space li{
+    word-spacing: 5px;
+}
+.space{
+    
+    margin-left: 199px;
+    margin-right: 193px;
+    color: gray;
+}
+#sheet{
+    width: 901px;
+    margin-left: 194px;
+}
+#form{
+
+margin-top: -277px;
+margin-left: -34px;
+}
+
+.text{
+    display: block;
+    padding-bottom: 8px;
+    font-family: 'Advent Pro';
+      
+}
+.ul1{
+    display: grid;
+     
+    margin-left: 331px;
+    margin-top: 9px;
+}
+.ul2{
+    margin-left: 606px;
+    margin-top: -178px;
+}
+.form
+{
+    display: inline-block;
+}
+#footimg{
+    background-image: url(images/hr-img.png);
+    background-repeat: repeat;
+}
+
+
